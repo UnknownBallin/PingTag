@@ -4,5 +4,5 @@ branches:
 projects:
   PingTag:
     path: ""
-    icon: logo.png
+    icon: icon.png
 ...
