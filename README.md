@@ -1,3 +1,5 @@
+[![Poggit-CI](https://poggit.pmmp.io/shield.api/PingTag)](https://poggit.pmmp.io/p/PingTag) [![Poggit-CI](https://poggit.pmmp.io/shield.dl.total/PingTag)](https://poggit.pmmp.io/p/PingTag)
+
 # PingTag 📊
 Displays player ping blow nametag
 
